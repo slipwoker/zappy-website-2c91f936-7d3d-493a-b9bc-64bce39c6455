@@ -1,0 +1,107 @@
+# Be a winner - השיטה המעשית לפיתוח מנהיגות — Generative Engine Optimization Map
+
+> A פיתוח מנהיגות וארגונים business.
+
+---
+
+## Pages
+
+### בית
+https://be-a-winner-2c91f936.zappy5.app
+גלה את השיטה המעשית שהופכת מנכ״לים ומנהלים בכירים למנהיגים מובילים. שדרג את יכולות הניהול, ההובלה וההשראה שלך עוד היום. הצטרף לאלפי מנצחים.
+
+### אפשרויות לימוד
+https://be-a-winner-2c91f936.zappy5.app/learning-opportunities
+מגוון מסלולי לימוד מעשיים למנכ״לים ובכירים: סדנאות, קורסים ותוכניות ליווי אישי שיקפיצו את המנהיגות שלכם קדימה. בחרו את המסלול שלכם להובלה.
+
+### להכיר את הצוות
+https://be-a-winner-2c91f936.zappy5.app/meet-the-team
+הצוות המוביל בתחום פיתוח המנהיגות בישראל, עם ניסיון רב בהפיכת מנכ״לים למנהיגים מעוררי השראה. בואו לפגוש את האנשים שיובילו אתכם לניצחון.
+
+### מה הופך אותנו ליחודיים
+https://be-a-winner-2c91f936.zappy5.app/what-makes-us-unique
+גלו מה מבדל את השיטה המעשית שלנו מכל תוכניות המנהיגות האחרות. גישה ייחודית שמשלבת כלים פרקטיים עם תוצאות מדידות. זה הזמן להבין למה אנחנו שונים.
+
+### מה אומרים הלקוחות
+https://be-a-winner-2c91f936.zappy5.app/customer-testimonials
+מנכ״לים ומנהלים בכירים מספרים איך השיטה המעשית שינתה את הקריירה והארגון שלהם. קראו סיפורי הצלחה אמיתיים וקבלו השראה לצעד הבא שלכם.
+
+### הופעות בתקשרות והשראה
+https://be-a-winner-2c91f936.zappy5.app/communication-and-inspiration-performances
+צפו בהופעות, הרצאות וראיונות מעוררי השראה עם מובילי השיטה. למדו כיצד לתקשר כמנהיגים בכל פלטפורמה ולהצית שינוי בארגון שלכם.
+
+### ממנהל למנהיג - הספר
+https://be-a-winner-2c91f936.zappy5.app/manager-to-leader
+המדריך המקיף והמעשי למנכ״לים שמוכנים לעשות את הקפיצה. הספר &#39;ממנהל למנהיג&#39; חושף את כל הסודות, הכלים והתובנות שיהפכו אתכם למנהיגים שמנצחים.
+
+### צור קשר
+https://be-a-winner-2c91f936.zappy5.app/contact-us
+מוכנים לקחת את המנהיגות שלכם לשלב הבא? צרו איתנו קשר עוד היום לשיחת ייעוץ ראשונית ללא עלות. אנחנו כאן כדי להפוך אתכם למנצחים האמיתיים.
+
+### מדיניות פרטיות
+https://be-a-winner-2c91f936.zappy5.app/privacy
+מדיניות הפרטיות המפורטת שלנו מבטיחה שכל המידע שלכם נשמר בקפדנות ובשקיפות מלאה. קראו כיצד אנו מגנים עליכם בכל שלב בדרך למנהיגות.
+
+### הצהרת נגישות
+https://be-a-winner-2c91f936.zappy5.app/accessibility
+אנו מחויבים להנגיש את חוויית הלמידה והמנהיגות לכולם. הצהרת הנגישות שלנו מפרטת את ההתאמות שביצענו כדי להבטיח גישה שוויונית ומלאה לכל משתמש.
+
+### תנאי שימוש
+https://be-a-winner-2c91f936.zappy5.app/terms
+תנאי השימוש שלנו מגדירים את הדרך הבטוחה וההוגנת לעבוד יחד. קראו בעיון את הכללים שמבטיחים שכל תהליך פיתוח המנהיגות שלכם יהיה חלק, מקצועי וממוקד תוצאות.
+
+## Legal & Policy
+
+### Privacy Policy
+https://be-a-winner-2c91f936.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://be-a-winner-2c91f936.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://be-a-winner-2c91f936.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- Email: robi@robi-steiner.co.il
+- Phone: 0587458008
+- Phone (tel): tel:0587458008
+
+### Contact form
+- URL: https://be-a-winner-2c91f936.zappy5.app/learning-opportunities
+- Endpoint: https://be-a-winner-2c91f936.zappy5.app/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text, required)
+  - `company` (text)
+  - `phone` (tel, required)
+  - `email` (email, required)
+  - `interest` (select)
+  - `privacy_consent` (checkbox, required)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Be a winner - השיטה המעשית לפיתוח מנהיגות
+Be a winner - השיטה המעשית לפיתוח מנהיגות is a business in the פיתוח מנהיגות וארגונים industry.
+
+## Target Audience
+מנכ"לים וניהול בכיר
+
+## Industry
+פיתוח מנהיגות וארגונים
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://be-a-winner-2c91f936.zappy5.app/sitemap.xml
+- Robots: https://be-a-winner-2c91f936.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://be-a-winner-2c91f936.zappy5.app/llms-full.txt
